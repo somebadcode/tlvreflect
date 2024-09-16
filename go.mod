@@ -1,4 +1,4 @@
-module tlv
+module tlvreflect
 
 go 1.23
 
