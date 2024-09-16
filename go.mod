@@ -1,4 +1,4 @@
-module tlvreflect
+module github.com/somebadcode/tlvreflect
 
 go 1.23
 
